@@ -1,4 +1,4 @@
-Name of our final project: restaurant system with food ordering, payment and charging for phones
+#Restaurant system with food ordering, payment and charging for phones
 Group: SE-2206
 Team members: Danial Demissenov, George Georgiev
 
