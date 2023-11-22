@@ -1,4 +1,4 @@
-#Restaurant system with food ordering, payment and charging for phones
+# Restaurant system with food ordering, payment and charging for phones
 Group: SE-2206
 Team members: Danial Demissenov, George Georgiev
 
@@ -38,3 +38,6 @@ Our implementation of multiple design patterns has significantly enhanced the pr
 Future Improvements:
 
 Enhancements to the user interface are on our agenda, with the goal of providing a more intuitive and enjoyable customer experience.
+
+UML diagram:
+![src](https://github.com/DemissenovDanial/Final/assets/123939899/ac7466e4-92e8-42d7-8b9e-339a9c0a1719)
