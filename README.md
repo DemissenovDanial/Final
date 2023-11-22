@@ -8,22 +8,22 @@ In our project, we've developed a restaurant management system that incorporates
 
 Main Body:
 
-Adapter Pattern:
+## Adapter Pattern:
 
 We implemented two adapter classes (AdapterLightningToTypeC and AdapterTypeCToLightning) to adapt charging interfaces, ensuring compatibility between Lightning and Type-C connectors.
-Decorator Pattern:
+## Decorator Pattern:
 
 The CheeseBurgerDecorator and PizzaMargaritaDecorator classes, developed by us, apply the Decorator pattern to dynamically enhance burgers and pizzas with additional ingredients.
-Observer Pattern:
+## Observer Pattern:
 
 We've utilized the Observer pattern in the RestaurauntGuest class, making them observers notified when a dish is ready, enhancing the customer experience.
-Strategy Pattern:
+## Strategy Pattern:
 
 The Payment class, crafted by us, utilizes the Strategy pattern to enable dynamic switching between different payment strategies (Cash and KaspiCard) based on customer preferences.
-Singleton Pattern:
+## Singleton Pattern:
 
 We ensured the Pizza and Burger classes are implemented as singletons (Pizza.INSTANCE and Burger.INSTANCE), guaranteeing a single instance for each dish to maintain consistency.
-Factory Method Pattern:
+## Factory Method Pattern:
 
 The Kitchen class, developed by our team, applies the Factory Method pattern to create various types of dishes based on the DishType enum, allowing for flexible menu expansion.
 Conclusion:
